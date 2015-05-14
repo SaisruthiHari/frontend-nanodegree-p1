@@ -1,5 +1,7 @@
 body {
+	/* TODO: use a different font when I have time to review more */
 	font-family: 'Lato', sans-serif;
+	/* TODO: use a color scheme that I like */
 	color: #747704;
 	font-weight: 300;
 }
